@@ -1,6 +1,6 @@
 {
   "name": "mochawesome-screenshots",
-  "version": "1.5.9",
+  "version": "1.6.0-kp.1",
   "description": "A Gorgeous HTML/CSS Reporter for Mocha.js",
   "scripts": {
     "test": "gulp build"
@@ -9,7 +9,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BelAn97/mochawesome-screenshots"
+    "url": "https://github.com/kayak/mochawesome-screenshots"
   },
   "keywords": [
     "mocha",

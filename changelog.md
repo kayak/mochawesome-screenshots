@@ -1,5 +1,10 @@
 #Changelog
 
+###1.6.0-kp1
+set report name to the title of the test's parent (when multiReport=true)
+add Mochawesome.getPromises() that returns an array of promises that resolve once each requested
+ screenshot is taken and saved
+
 ###1.5.9
 add ability to have custom screenshot at the report
 
